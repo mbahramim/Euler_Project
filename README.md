@@ -1,2 +1,2 @@
-# Euler_Project
+# Euler Project
 https://projecteuler.net/
